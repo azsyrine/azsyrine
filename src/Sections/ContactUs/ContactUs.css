@@ -1,0 +1,207 @@
+.form_data{
+   margin-top: 100px; 
+   background: #E5E5E5;
+   
+    width: 900px;
+ 
+}
+.form_contact h1{
+    height: 48px;
+    width: 188px;
+    left: 55px;
+    font-style: normal;
+   
+    font-family: 'Poppins';
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0.01em;
+    text-align: left;   
+}
+.form_name label{
+   font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+color: #000000;
+}
+.form_name input{
+   box-sizing: border-box;
+width: 548.24px;
+height: 50px;
+left: 55px;
+top: 1810px;
+background: #FFFFFF;
+border: 0.8px solid #575757;
+}
+.form_data form{
+    margin-top: 45px;
+    width: 100%;
+    padding: 10px 50px;
+  }
+
+  .form_name input{
+    width: 100%;
+    padding: 11px;
+    border: 1px solid #d4d0d0;
+    border-radius: 5px;
+    outline: none;
+    margin-bottom: 14px;
+    margin-top: 9px;
+    font-size: 14px;
+    
+  }
+
+.form_name{
+   font-style: normal ;
+   font-family: 'Poppins';
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.form_name input{
+   height: 50px;
+width: 548.2399291992188px;
+left: 55px;
+top: 1810px;
+border-radius: 0px;
+background: #FFFFFF;
+border: 0.8px solid #575757;
+   
+
+}
+
+.form_email{
+   
+   font-family: 'Poppins';
+   font-style: normal ;
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   letter-spacing: 0em;
+   text-align: left;
+}
+
+.form_email input{
+    height: 50px;
+width: 548.2399291992188px;
+left: 55px;
+top: 1935px;
+border-radius: 0px;
+background: #FFFFFF;
+border: 0.8px solid #575757;
+}
+.form_telephone{
+   font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0em;
+   text-align: left;
+color: #000000;
+}
+
+.form_telephone input{
+   box-sizing: border-box;
+  margin-top: 1px;
+width:250px;
+height: 50px;
+left: 55px;
+top: 2051px;
+border-radius: 0px;
+background: #FFFFFF;
+border: 0.8px solid #575757;
+}
+.form_job{
+  
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #000000;
+}
+.form_job input{
+   height: 50px;
+width: 250px;
+left: 353px;
+top: 2051px;
+border-radius: 0px;
+
+}
+.form-radio{
+   
+
+margin-top: 28px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+}
+.form_input_files{
+   
+width: 208px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #000000;
+}
+.form_input_files p{
+   color: #000000;
+   font-size: 15px;
+   margin-top:9px;
+}
+.form_input_files input{
+   box-sizing: border-box;
+position: absolute;
+width: 548px;
+height: 111px;
+background: #FFFFFF;
+border: 0.8px solid #575757;
+}
+.form_message {
+   margin-top: 120px;
+   position: absolute;
+   width: 74.95px;
+   height: 24px;
+  
+   
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 24px;
+   /* identical to box height */
+   color: #000000;
+}
+.form_message textarea{
+   box-sizing: border-box;
+position: absolute;
+width: 548.24px;
+height: 194px;
+background: #FFFFFF;
+border: 0.8px solid #575757;
+}
+form .btne{
+   border-radius: 0px;
+   top: 1800px;
+   margin-top: 10px;
+   right: 100px;
+   position: absolute;
+   width: 183px;
+   height: 56px;
+
+   background: #183643;
+}
